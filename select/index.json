@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "最大公約数",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-16T07:44:52.358562Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "最大公約数",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_最大公約数_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "最大公約数 - Saidai Kouyakusuu",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/02_最大公約数_-_Saidai_Kouyakusuu_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "最大公約数",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/03_最大公約数_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最大公約数",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_最大公約数_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
